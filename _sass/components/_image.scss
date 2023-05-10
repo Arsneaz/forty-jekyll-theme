@@ -33,7 +33,33 @@ img {
 			margin: 0 1.5em 1.25em 0;
 			top: 0.25em;
 		}
-
+		&.left-rounded {
+			max-width: 25%;
+			float: left;
+			margin: 0 1.5em 1.25em 0;
+			top: 0.25em;
+			img {
+				border-radius: 100000000000px; 
+			}
+		}
+		&.rounded {
+			max-height: 75%;
+			max-width: 80%;
+			margin: 0 1.5em 1.25em 0;
+			top: 0.25em;
+			img {
+				border-radius: 100000000000px; 
+			}
+		}
+		&.right-rounded {
+			max-width: 25%;
+			float: right;
+			margin: 0 0 1.25em 1.5em;
+			top: 0.25em;
+			img {
+				border-radius: 10000000000000px; 
+			}
+		}
 		&.right {
 			float: right;
 			margin: 0 0 1.25em 1.5em;

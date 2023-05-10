@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Elements
-image: assets/images/pic01.jpg
+title: About Me
+image: assets/images/undraw_Account_re_o7id.png
 nav-menu: true
+show_tile: false
 ---
 
 <!-- Main -->
