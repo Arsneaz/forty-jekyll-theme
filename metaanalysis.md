@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Subcortical brain connectivity at 7T
+title: Tools for rigorous neuroimaging meta-analysis
 description: Using high-resolution, ultra-high field magnetic resonance imaging to study the hippocampus, hypothalamus, and habenula.
 image: null
 show_tile: false

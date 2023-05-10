@@ -91,7 +91,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#" class="image">
 			<img src="{% link assets/images/ali-shah-lakhani-sp1BZ1atp7M-unsplash.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -103,7 +103,7 @@ nav-menu: true
 				<br>Photo by <a href="https://unsplash.com/@alishahlakhani?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ali Shah Lakhani</a> on <a href="https://unsplash.com/photos/sp1BZ1atp7M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#" class="button">Coming soon!</a></li>
 				</ul>
 			</div>
 		</div>

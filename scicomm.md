@@ -40,7 +40,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="{% link assets/images/undraw_Children_re_c37f(1).png %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/nimare_overview.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
