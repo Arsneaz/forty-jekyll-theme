@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Open & accessible knowledge</h2>
 		</header>
-		<p>Accessibility is an important componet of open science. Access to rigorous, <i>open-source tools</i> increases transparency and reproducibility in research. Access to <i>digestible knowledge</i> of scientific methods, research, and findings democratizes  and increases public trust in science. And that is why scientific communication and education is an important part of my ongoing research career.
+		<p>I believe that education and scientific communication should provide people with knowledge and context, in addition to tools they can apply when encountering new information. Learning should be accessible, inclusive, and engaging, tailored to learners’ needs and preexisting knowledge. People learn best when they are engaged, when the materials are relevant to their backgrounds and goals, and when they have agency in the learning process.
 		</p>
 	</div>
 </section>

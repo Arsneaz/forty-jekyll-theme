@@ -9,10 +9,10 @@ nav-menu: true
 		<header class="major">
 			<h2>About Me</h2>
 		</header>
-		<p><span class="image left-rounded"><img src="{% link assets/images/profpic2021.jpeg %}" alt="" /></span>Hello! My name is Katie Bottenhorn and I am a developmental cognitive neuroscientist interested in developing, applying, and sharing cutting-edge tools for robust analysis of individual variability in child and adolescent brain development. Conceptually, my current research focuses on roles of puberty and air pollution exposure in within- and between-individual differences in functional and microstructural neurodevelopment.
+		<p><span class="image left-rounded"><img src="{% link assets/images/profpic2021.jpeg %}" alt="" /></span>Hello! My name is Katie Bottenhorn and I am a developmental cognitive neuroscientist interested in developing, applying, and sharing cutting-edge tools for robust analysis of individual variability in child and adolescent brain development. Conceptually, my current research focuses on roles of puberty and air pollution exposure in within- and between-individual differences in functional and microstructural neurodevelopment. Principles of open science form the basis of my research program, which has led to my contributions to open-source tool development, open resource sharing, scientific  communication (both to researchers and the community-at-large), and a focus on increasing diversity, equity, and inclusion in scientific research by increasing accessibility and addressing structural barriers to participation.
 		</p>
-    <p><span class="image right-rounded"><img src="{% link assets/images/fred.jpg %}" alt="" /></span>Throughout this site, I have included information on my <a href="connectivity.html">current and past research projects</a>, my portfolio of <a href="scicomm.html">scientific outreach and education</a>, and <a href="tools.html">research tools</a> that I am developing or have contributed to, as well as a fairly up-to-date listing of <a href="publications.html">peer-reviewed manuscripts and (not peer-reviewed) preprints</a> that I have written or to which I have conitributed.</p>
-    <p>Outside of the wonderful world of science, most of my time is spent reading (fiction! for fun!!), hiking with my dog, and cooking. I rescued Fred (right) a few years ago and my PhD in Psychology has come in very handy in my amateur dog training efforts (<i>N</i>=1).</p>
+    <p>Throughout this site, I have included information on my <a href="connectivity.html">current and past research projects</a>, my portfolio of <a href="scicomm.html">scientific outreach and education</a>, and <a href="tools.html">research tools</a> that I am developing or have contributed to, as well as a fairly up-to-date listing of <a href="publications.html">peer-reviewed manuscripts and (not peer-reviewed) preprints</a> that I have written or to which I have conitributed.</p>
+    <p><span class="image right-rounded"><img src="{% link assets/images/havasupai.jpg %}" alt="" /></span><span class="image left-rounded"><img src="{% link assets/images/fred.jpg %}" alt="" /></span>Outside of the wonderful world of science, most of my time is spent hiking, training, or hanging out with my dog. I rescued Fred (right) a few years ago and my PhD in Psychology has come in very handy in my amateur dog training efforts (<i>N</i>=1). The more time I can spend in the great outdoors, the better; from hiking in the mountains around Southern California to paddleboard camping (the best of backpacking and car camping, combined) or just reading in the sun. My indoor hobbies include reading (not in the sun), cooking, painting, and lifting weights.</p>
 	</div>
 </section>
 <section id="two">
@@ -21,8 +21,8 @@ nav-menu: true
 			<h3>Employment</h3>
 		</header>
 		<ul class="alt">
-    <li><em>Postdoctoral scholar</em> • Keck School of Medicine of USC (2021-present)</li>
-    <li><em>Courtesy postdoctoral associate</em> • Florida International University (2021-present)</li>
+    <li><em>Postdoctoral scholar</em> • Department of Population and Public Health Sciences, Keck School of Medicine of USC (2021-present)</li>
+    <li><em>Courtesy postdoctoral associate</em> • Department of Psychology, Florida International University (2021-present)</li>
     </ul>
     <div class="row">
 	    <div class="8u 12u$(small)">
@@ -33,7 +33,7 @@ nav-menu: true
         <li><em>Ph.D, Cognitive Neuroscience</em> • Florida International University (2021) †</li>
         <li><em>M.S., Psychology</em> • Florida International University (2018)</li>
         <li><em>B.A., Psychology</em> • Auburn University (2015) *</li>
-        <li><em>B.A., Chemistry</em> • Florida International University (2015) *</li>
+        <li><em>B.A., Chemistry</em> • Auburn University (2015) *</li>
         <font size="-0.8">†FIU Real Triumphs Graduate. *Summa cum laude, University Honors Scholar</font>
         </ul>
         </div>

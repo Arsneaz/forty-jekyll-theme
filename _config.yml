@@ -1,10 +1,10 @@
 # site settings
-title: The name's Bottenhorn
-subtitle: Dr. Katherine L. Bottenhorn, PhD
+title: Dr. Katherine L. Bottenhorn, PhD
+subtitle: Research, development, & scicomm, oh my!
 email: katie.bottenhorn@gmail.com
-description: This is my portfolio for all things science, code, and scicomm.
+description: This is my portfolio for all things research, code, and scicomm.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: katherinebottenhorn.com
+url: 
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
