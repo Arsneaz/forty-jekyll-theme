@@ -3,7 +3,7 @@ layout: page
 title: Publications
 description: A list of my publications and preprints.
 image: assets/images/undraw_articles_wbpb.png
-nav-menu: false
+nav-menu: true
 show_tile: false
 ---
 <div id="main" class="alt">
