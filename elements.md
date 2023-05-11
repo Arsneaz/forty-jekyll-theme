@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About Me
+title: Elements
 image: assets/images/undraw_Account_re_o7id.png
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 
