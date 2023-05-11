@@ -30,9 +30,9 @@ nav-menu: true
           <h3>Education</h3>
         </header>
         <ul class="alt">
-        <li><em>Ph.D, Cognitive Neuroscience</em> • Florida International University (2021) †</li>
-        <li><em>M.S., Psychology</em> • Florida International University (2018)</li>
-        <li><em>B.A., Psychology</em> • Auburn University (2015) *</li>
+        <li><em>Ph.D, Cognitive Neuroscience</em> • Florida International University (2021) †<br><font style="font-variant: small-caps" size="-0.8">Dissertation: <i>Understanding individual differences within large-scale brain networks across cognitive contexts</i></font></li>
+        <li><em>M.S., Psychology</em> • Florida International University (2018)<br><font style="font-variant: small-caps" size="-0.8">Thesis: <i>Cooperating yet distinct brain networks engaged by naturalistic fMRI paradigms: A meta-analysis of functional MRI results</i></font></li>
+        <li><em>B.A., Psychology</em> • Auburn University (2015) *<br><font style="font-variant: small-caps" size="-0.8">Honors Thesis: <i>Connectivity of the human hypothalamus</i></font></li>
         <li><em>B.A., Chemistry</em> • Auburn University (2015) *</li>
         <font size="-0.8">†FIU Real Triumphs Graduate. *Summa cum laude, University Honors Scholar</font>
         </ul>
