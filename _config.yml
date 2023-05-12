@@ -3,7 +3,7 @@ title: Dr. Katherine L. Bottenhorn, PhD
 subtitle: Research, development, & scicomm, oh my!
 email: katie.bottenhorn@gmail.com
 description: This is my portfolio for all things research, code, and scicomm.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: 
 author:
 street_address: 1234 Somewhere Road
