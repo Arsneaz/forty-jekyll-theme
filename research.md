@@ -91,19 +91,19 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="#" class="image">
+		<a href="metaanalysis.html" class="image">
 			<img src="{% link assets/images/ali-shah-lakhani-sp1BZ1atp7M-unsplash.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Tools for rigorous neuroimaging meta-analysis</h3>
+					<h3>Neuroimaging meta-analysis for consensus and discovery</h3>
 				</header>
 				<p>One approach to addressing the neuroimaging replication crisis and making quantitative sense of the overabundance of underpowered neuroimaging studies is meta-analysis. In addition to finding consensus across published studies, meta-analytic methods can uncover latent patterns across the literature and provide useful resources for primary data analysis.
 				<br>Photo by <a href="https://unsplash.com/@alishahlakhani?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ali Shah Lakhani</a> on <a href="https://unsplash.com/photos/sp1BZ1atp7M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   				</p>
 				<ul class="actions">
-					<li><a href="#" class="button">Coming soon!</a></li>
+					<li><a href="metaanalysis.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
