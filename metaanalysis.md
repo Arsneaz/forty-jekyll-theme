@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neuroimaging meta-analysis for consensus and discovery
-description: Using high-resolution, ultra-high field magnetic resonance imaging to study the hippocampus, hypothalamus, and habenula.
+description: Quantitatively aggregating brain activation results from published neuroimaging studies.
 image: null
 show_tile: false
 ---
