@@ -1,5 +1,5 @@
 ---
-title: Tool Development (WIP)
+title: Tool Development
 layout: landing
 description: 'Open-source research tools that I contribute to.'
 image: assets/images/undraw_Proud_coder_re_exuy.png
@@ -20,7 +20,7 @@ nav-menu: true
 				<header class="major">
 					<h3>IDConn: Individual differences in connectivity</h3>
 				</header>
-				<p>I am the benevolent dictator for life of BIDS-compatible Python pipeline for assessing individual differences in brain connectivity from functional magnetic resonance imaging (fMRI) data.</p>
+				<p>I am BDFL for a BIDS-compatible Python pipeline for assessing individual differences in brain connectivity from functional magnetic resonance imaging (fMRI) data. The most recent version includes predictive connectomics a lá NBS-Predict.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/62442katieb/IDConn" class="button">Learn more</a></li>
 				</ul>
@@ -52,10 +52,7 @@ nav-menu: true
 				<header class="major">
 					<h3>BIDS-Compatible Tools for Neuroimaging Research</h3>
 				</header>
-				<p>I have made minor contributions to phys2bids, tedana, Nipype, and the BIDS Stats Models Specification (BEP 2)</p>
-				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
-				</ul>
+				<p>I have made minor contributions to <a href="https://physiopy.github.io/">the physiopy community</a>, <a href="https://tedana.readthedocs.io/en/stable/">tedana</a>, <a href="https://nipype.readthedocs.io/en/latest/">Nipype</a>, and the <a href="https://bids-standard.github.io/stats-models/">BIDS Stats Models Specification</a> (BEP 2) and led the development of <a href="https://github.com/62442katieb/mbme-physio-denoising">physioComb</a>.</p>		
 			</div>
 		</div>
 	</section>
