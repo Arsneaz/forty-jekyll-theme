@@ -49,23 +49,7 @@ nav-menu: true
 				</header>
 				<p>Educational presentations on dataset curation for neuroimaging meta-analysis.</p>
 				<ul class="actions">
-					<li><a href="#" class="button">Come back soon!</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="#" class="image">
-			<img src="{% link assets/images/IDConnWorkflowH-no_text.png %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Methods for studying brain connectomics</h3>
-				</header>
-				<p>Workshops, tutorials, and presentations on different topics in (functional) connectomics; from graph theory to Pythonic data analysis pipelines.</p>
-				<ul class="actions">
-					<li><a href="#" class="button">Come back soon!</a></li>
+					<li><a href="metaeducation.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -79,10 +63,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Community outreach in neuroscience</h3>
 				</header>
-				<p>Over the years, I have given talks to all ages on various neuroscience topics and even collaborated with the Frost Science Museum in Miami, FL to create a neuroscience exhibit.</p>
-				<ul class="actions">
-					<li><a href="#" class="button">Come back soon!</a></li>
-				</ul>
+				<p>Over the years, I have given talks to all ages on various neuroscience topics and  collaborated with the Frost Science Museum in Miami, FL to create a neuroscience exhibit.</p>
 			</div>
 		</div>
 	</section>
