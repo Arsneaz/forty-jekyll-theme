@@ -44,8 +44,10 @@ nav-menu: true
     <header class="major">
 			<h3>Research Support</h3>
 		</header>
+    <h4>Endocrine-mediated pubertal brain network development: Bridging datasets with machine learning</h4>
+		<p>NIH BRAIN Initiative Advanced Postdoctoral Career Transition Award to Promote Diversity (K99/R00); PI: Bottenhorn; K99MH135075-01<br>01/01/2024 – 12/31/2025, TOTAL AWARD: $999,927.00<br><br>This project aims to describe the roles of sex steroid hormones in child and adolescent brain network development by integrating neuroimaging and hormone data from several independent, pediatric datasets.</p>
     <h4>Impacts of ambient air pollutants on brain microstructure and functional connectome development</h4>
-		<p>Southern California Environmental Health Sciences Center Pilot Grant; PI: Bottenhorn<br>03/01/2023 – 02/28/2024, TOTAL AWARD: $10,000<br><br>This project uses data from the Adolescent Brain and Cognitive Development (ABCD) Study to assess how parallel microstructural and functional brain changes in children ages 9-12 years are associated with exposure to various sources of fine particulate matter</p>
+		<p>Southern California Environmental Health Sciences Center Pilot Grant; PI: Bottenhorn<br>03/01/2023 – 02/28/2024, TOTAL AWARD: $10,000<br><br>This project uses data from the Adolescent Brain and Cognitive Development (ABCD) Study to assess how parallel microstructural and functional brain changes in children ages 9-12 years are associated with exposure to various sources of fine particulate matter.</p>
     <h4>Understanding individual differences within large-scale brain networks across cognitive contexts</h4>
 		<p>FIU University Graduate School Dissertation Year Fellowship PI: Bottenhorn<br>01/09/2021 – 08/09/2021, TOTAL AWARD: $16,600<br><br></p>
 	</div>
