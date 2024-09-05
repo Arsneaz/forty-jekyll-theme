@@ -23,6 +23,23 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="neuroendocrine.html" class="image">
+			<img src="{% link assets/images/reproductive-health-supplies-coalition-hFphI8Zx_E4-unsplash.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Endocrine variability in large-scale brain networks</h3>
+				</header>
+				<p>Sex steroid hormones have receptors across the brain and fluctuate by orders of magnitude both during development and across adulthood, but few longitudinal neuroimaging studies have assessed sex steroid hormone changes. This work aims to better understand endocrine-mediated brain organization with respect to the adult menstrual cycle, hormonal contraceptive use, and puberty.<br>Photo by <a href="https://unsplash.com/@rhsupplies?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Reproductive Health Supplies Coalition</a> on <a href="https://unsplash.com/photos/hFphI8Zx_E4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  				</p>
+				<ul class="actions">
+					<li><a href="neuroendocrine.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="p30pilot.html" class="image">
 			<img src="{% link assets/images/jacek-dylag-mmar_Xs8_mk-unsplash.jpg %}" alt="" data-position="top center" />
 		</a>
@@ -52,23 +69,6 @@ nav-menu: true
   				</p>
 				<ul class="actions">
 					<li><a href="deltaabcd.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="neuroendocrine.html" class="image">
-			<img src="{% link assets/images/reproductive-health-supplies-coalition-hFphI8Zx_E4-unsplash.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Endocrine sources of within- and between-individual variability in large-scale brain networks</h3>
-				</header>
-				<p><br>Photo by <a href="https://unsplash.com/@rhsupplies?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Reproductive Health Supplies Coalition</a> on <a href="https://unsplash.com/photos/hFphI8Zx_E4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  				</p>
-				<ul class="actions">
-					<li><a href="neuroendocrine.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
